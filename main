@@ -1,0 +1,6 @@
+%s
+%s
+int main(){
+	%s
+	return 1;
+}
